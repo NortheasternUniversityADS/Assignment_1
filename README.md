@@ -1,4 +1,4 @@
-#This folder contains main documents of assignment.
+## This folder contains main documents of assignment.
 
 - [EDA](https://github.com/NortheasternUniversityADS/Assignment-3/blob/master/Main%20Assignment/EDA.ipynb) - Contains details of Exploratory Data Analysis.
 
